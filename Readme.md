@@ -83,7 +83,6 @@ python main.py
 
 ## Conclusion
 This project demonstrates the theoretical and practical implementation of:
-- **VC-Dimension Analysis**
 - **Perceptron Algorithm**: Evaluated on different Iris class pairs with margin insights.
 - **Adaboost Algorithm**: Analyzed over multiple runs with error evaluation on both training and test sets.
 
