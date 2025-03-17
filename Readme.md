@@ -1,7 +1,7 @@
 # Iris Binary Classification - Perceptron & Adaboost
 
 ## Overview
-This project presents solutions for three main tasks in **Machine Learning**, as part of the **Ariel University** course, 2024B semester. 
+This project presents solutions for two tasks in Machine Learning, utilizing the Iris dataset.
 
 The assignment explores the following:
 1. **Perceptron Algorithm Implementation & Evaluation**
